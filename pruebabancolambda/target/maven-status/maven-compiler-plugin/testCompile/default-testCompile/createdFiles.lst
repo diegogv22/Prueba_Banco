@@ -1,0 +1,14 @@
+com\banco\prueba\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\banco\prueba\TestUtils$DynamodbEventMixin.class
+com\banco\prueba\TestUtils$DateTimeDeserializer.class
+com\banco\prueba\LambdaFunctionHandlerTest.class
+com\banco\prueba\TestUtils$TestJacksonMapperModule.class
+com\banco\prueba\TestContext$TestLogger.class
+com\banco\prueba\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\banco\prueba\TestUtils$DateTimeSerializer.class
+com\banco\prueba\TestUtils$1.class
+com\banco\prueba\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\banco\prueba\TestContext.class
+com\banco\prueba\TestContext$1.class
+com\banco\prueba\TestUtils.class
+com\banco\prueba\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
